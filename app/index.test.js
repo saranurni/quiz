@@ -1,10 +1,10 @@
-const customer = {firstName:"Sara"; lastName:"Nurestani"; id:"1234"; phoneNumber:"0712341234"; email:"saranurestani@gmail.com"}
+const customer = {firstName:"Sara"; lastName:"Nurestani"; id:1234; phoneNumber:"0712341234"; email:"saranurestani@gmail.com"}
 
 customer = {street:"street lane"; city:"london"; state:"middlesex"; zipCode:"123456"}
 
 console.log(`Welcome, ${customer.firstName+lastName}!`)
 
-const product = {name:"sara"; price:"12"; description:"nice"; quantity:"34"}
+const product = {name:"sara"; price:12; description:"nice"; quantity:34}
 
 console.log(`Total: %<total> ${price*quantity}`.)
 
